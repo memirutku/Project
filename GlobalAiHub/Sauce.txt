@@ -1,0 +1,6 @@
+11: Zeytin
+12: Mantarlar
+13: KeciPeyniri
+14: Et
+15: Sogan
+16: Misir
