@@ -145,8 +145,7 @@ def ToplamaIslemi():
  classSos=SauceDict[(ChosenSauce)]
  if str(classSos[-1:])=="\n":
   classSos=str(classSos[1:-1])
-  convSos=f"{classSos}().get_cost()"
- else:
+  convSos=f"{classSos}().get_cost()"   #zeytin().get_cost()
   classSos=str(classSos)
   convSos=f"{classSos}().get_cost()"
 
